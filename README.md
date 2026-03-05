@@ -118,10 +118,7 @@ https://github.com/user-attachments/assets/dad83c86-32ef-4737-a6df-97b2731a6a92
 
 
  # 📘 Projet 3 : Gestion des Mariages avec Hibernate
-👨‍🎓 Niveau
 
-## Projet académique – Licence (L3) Informatique
-## Module : Java EE / Hibernate / JPA
 
 ## Description du projet
 
